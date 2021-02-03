@@ -21,4 +21,4 @@ strategy:
   maxParallel: 3
 
 pool:
-  vmImage: $(imageName)
+  vmImage: $(vs2017-win2016)
